@@ -3,4 +3,4 @@ git is reposition  free software.
 git third
 git study , now.
 
-Git has a mutable index called stage.1-2-1-3 ---xx --x --x --x
+Git has a mutable index called stage.1-2-1-3 ---xx --x --x
