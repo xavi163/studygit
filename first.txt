@@ -1,2 +1,4 @@
 git is a version control.
 git is free software.
+git third
+git study , now.
