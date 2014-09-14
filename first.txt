@@ -1,4 +1,4 @@
-git is a version control.
-git is free software.
+git is reposition a version control.
+git is reposition  free software.
 git third
 git study , now.
